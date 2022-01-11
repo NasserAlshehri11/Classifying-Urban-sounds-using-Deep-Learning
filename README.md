@@ -58,6 +58,8 @@ Pandas.
 
 Matplotlib.
 
+Librosa
+
 Seaborn
 
 sciket learn
