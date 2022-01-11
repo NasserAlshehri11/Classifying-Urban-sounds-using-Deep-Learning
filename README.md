@@ -16,29 +16,48 @@ When given an audio sample in a computer readable format (such as a .wav file) o
 
 
 
-# Datasets and Inputs
+# Datasets 
 
 For this project we will use a dataset called Urbansound8K [1]. The dataset contains 8732 sound excerpts (<=4s) of urban sounds from 10 classes, which are:
 
 Air Conditioner
+
 Car Horn
+
 Children Playing
+
 Dog bark
+
 Drilling
+
 Engine Idling
+
 Gun Shot
+
 Jackhammer
+
 Siren
+
 Street Music
 
 # Tools:
+
 Python.
+
 Jupyter Notebook.
+
 PowerPoint.
+
 Excel
+
 # Libraries:
+
 NumPy.
+
 Pandas.
+
 Matplotlib.
+
 Seaborn
+
 sciket learn
